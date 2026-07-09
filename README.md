@@ -12,8 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahesh-singh-3456b4325/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"></a>
-  <a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahesh-singh-3456b4325/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"  height="30" width="40"></a>
+  <a href="https://www.instagram.com/pra.japat4094/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pra.japat4094" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
 
